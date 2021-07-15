@@ -12,3 +12,8 @@
 * 'git branch' - list local branches
 * 'git branch newBranch' - create local branch (replace newBranch with name of new branch to be created)
 * 'git checkout newBranch' - Move to branch 'newBranch'
+
+### Remote Repos
+* `git remote add alias url` - add `alias` as name for remote repo `url` in project configuration
+* `git push alias aBranch` - push local commits to remote repo `alias`'s branch `aBranch`
+* `git pull alias aBranch` - pull remote `aBranch` from `alias` into current local branch
