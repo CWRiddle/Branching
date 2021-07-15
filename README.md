@@ -1,5 +1,7 @@
 ### Git Cheat Sheet
 
+Brief reference of various git commands. Also practice....
+
 * 'git init' - Initialize a local git repo in working directory
 * 'git status' - show state of local repo
 * 'git log' - list commit history
