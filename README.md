@@ -5,6 +5,8 @@
 * 'git log' - list commit history
 * 'git log --oneline' - Compact commit history
 * 'git config -l' - does something...
+* 'git add .' - stage current directory in git index
+* 'git commit -m "msg"' - commit work to local repo with commit message "msg"
 
 ### Branching
 * 'git branch' - list local branches
