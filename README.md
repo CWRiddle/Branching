@@ -2,4 +2,4 @@
 
 * 'git init' - Initialize a local git repo in working directory
 * 'git status' - show state of local repo
-* 'git log' - 
+* 'git log' - list commit history
